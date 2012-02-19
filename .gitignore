@@ -1,0 +1,14 @@
+*~
+.pjm
+*.class
+*.jar
+*.db
+*.idea/*
+.idea
+*.exe
+*.o
+*.iml
+_local/*
+lib/
+bld/
+
